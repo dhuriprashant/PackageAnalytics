@@ -2,6 +2,7 @@
 .localdevserver/
 .settings/
 .sfdx/
+.sf/
 .vscode/
 wip/
 
